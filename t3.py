@@ -14,7 +14,6 @@ def get_best_response(user_input):
 
     return False
 
-
 def parise_excel():
     global business_dict
     file_path = r'C:\shipinhao\keyword.xlsx'
